@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>STRICT</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<!-- Header start -->
+	<header class="header-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="logo">
+						<a href="index.html">
+							<img src="images/strict.png">
+						</a>		
+	    			</div>			
+				</div>			
+			</div>	
+		</div>	
+	</header>
+	<!-- Header End -->
+
+
+
+	<!-- Banner start -->
+	<section class="banner"> 
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="banner-inner">
+						<h1>STRICT</h1>
+						<div class="divider"></div>
+						<p>STRICT is a responsive theme with a a clean and minimal look.</p>
+						<a href="#" class="btn-info">Call to action</a>
+						<div class="icons">
+							<img src="images/aroow.png">
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>	
+	</section>
+	<!-- Banner  end -->
+
+
+
+
+	<!-- Simple section start -->
+	<section class="simple-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="simple-inner">
+						<h1>Simple & pure design.</h1>
+						<p>Designers everywhere gush with admiration upon seeing a web design and exclaim "its beautiful, it's so clean!". There are a<br> countless number of webdesign round-ups dedicated to 'clean' design and it is a term thrown around quite a bit in the web<br> design community. It can be easy to spot a good example of clean design.</p>
+			
+		         </div>
+			
+		       </div>
+		    </div>	
+		</div>
+	</section>
+	<!-- Simple section End -->
+
+
+
+
+	<!-- Feature section code start here -->
+	<section class="feature-section">
+		<div class="container">
+		    <div class="row">
+			  <div class="col-md-4">
+			  	<div class="feature-inner">
+			  		<img src="images/icon1.png">
+			  		<h4>Optimized for all devices</h4>
+			  		<p>STRICT has been designed to be fully<br> 
+responsive on all devices</p>
+			  	</div>
+			
+		      </div>
+		      <div class="col-md-4">
+			  	<div class="feature-inner">
+			  		<img src="images/icon2.png">
+			  		<h4>OClean & Minimal Design</h4>
+			  		<p>This multipurpose theme is especially created<br> 
+to be used for different projects.</p>
+			  	</div>
+			
+		      </div>	
+		      <div class="col-md-4">
+			  	<div class="feature-inner">
+			  		<img src="images/icon3.png">
+			  		<h4>Font Awesome Icon</h4>
+			  		<p>This multipurpose theme is especially created<br> 
+to be used for different projects.</p>
+			  	</div>
+			
+		      </div>		
+		   </div>	
+		</div>
+	</section>
+
+	<!-- Feature section code end here -->
+
+
+
+	<!-- portfolio section start here -->
+	<section class="portfolio-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="title">
+						<h1>Showcase your work like a pro.</h1>
+					    <p> Contact me if you like my work</p>
+					</div>
+
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<div class="inner-portfolio">
+						<img src="images/gallery.png">
+                   <!-- Image hover -->
+
+						<div class="port-hover">
+							<div class="icons">
+								<a href="#">
+									<img src="images/Search.png">
+									
+								</a>
+								<a href="#">
+									<img src="images/S.png">
+									
+								</a>
+							</div>
+						</div>
+						<!-- Image hover end -->
+
+					</div>
+					
+				</div>
+				<div class="col-md-4">
+					<div class="inner-portfolio">
+						<img src="images/gallery2.png">
+                   <!-- Image hover -->
+
+						<div class="port-hover">
+							<div class="icons">
+								<a href="#">
+									<img src="images/Search.png">
+									
+								</a>
+								<a href="#">
+									<img src="images/S.png">
+									
+								</a>
+							</div>
+						</div>
+						<!-- Image hover end -->
+
+					</div>
+					
+				</div>
+				<div class="col-md-4">
+					<div class="inner-portfolio">
+						<img src="images/gallery3.png">
+                   <!-- Image hover -->
+
+						<div class="port-hover">
+							<div class="icons">
+								<a href="#">
+									<img src="images/Search.png">
+									
+								</a>
+								<a href="#">
+									<img src="images/S.png">
+									
+								</a>
+							</div>
+						</div>
+						<!-- Image hover end -->
+
+					</div>
+					
+				</div>
+				<div class="row">
+				<div class="col-md-4">
+					<div class="inner-portfolio">
+						<img src="images/gallery4.png">
+                   <!-- Image hover -->
+
+						<div class="port-hover">
+							<div class="icons">
+								<a href="#">
+									<img src="images/Search.png">
+									
+								</a>
+								<a href="#">
+									<img src="images/S.png">
+									
+								</a>
+							</div>
+						</div>
+						<!-- Image hover end -->
+
+					</div>
+					
+				</div>
+				<div class="col-md-4">
+					<div class="inner-portfolio">
+						<img src="images/gallery5.png">
+                   <!-- Image hover -->
+
+						<div class="port-hover">
+							<div class="icons">
+								<a href="#">
+									<img src="images/Search.png">
+									
+								</a>
+								<a href="#">
+									<img src="images/S.png">
+									
+								</a>
+							</div>
+						</div>
+						<!-- Image hover end -->
+
+					</div>
+					
+				</div>
+				<div class="col-md-4">
+					<div class="inner-portfolio">
+						<img src="images/gallery6.png">
+                   <!-- Image hover -->
+
+						<div class="port-hover">
+							<div class="icons">
+								<a href="#">
+									<img src="images/Search.png">
+									
+								</a>
+								<a href="#">
+									<img src="images/S.png">
+									
+								</a>
+							</div>
+						</div>
+						<!-- Image hover end -->
+
+					</div>
+					
+				</div>
+
+
+
+			</div>
+		</div>
+	</section>
+
+
+	<!--portfolio section end here -->
+
+	<!-- stay section strat -->
+     <section class="stay-section">
+     	<div class="container">
+     		<div class="row">
+     			<div class="col-md-12">
+     				<div class="title">
+     					<h1>Stay with us</h1>
+						<p>We ensure quailty & support</p>
+     				</div>
+     			</div>
+     		</div>
+     		<div class="row">
+     			<div class="col-md-12">
+     				<form action="" class="main-form">
+
+     					<div class="form-group">
+     						<input type="text" placeholder="Full Name" class="form-control">
+     					</div>
+     					<div class="form-group">
+     						<input type="email" placeholder="Email" class="form-control">
+     					</div>
+     					<div class="form-group">
+     						<textarea class="form-control" placeholder="Message " cols="30" rows="10"></textarea>
+     					</div>
+     					<div class="col-md-6">
+     						<div class="form-group">
+     							<input type="checkbox"><span>Subscribe Newsletter</span>
+     							<input type="submit" value="send" class="btn-stay">
+     						</div>
+     						<!-- <div class="form-group text-right">
+     							<input type="submit" value="send" class="btn-stay">
+     						</div> -->
+     					</div>
+     					<!-- <div class="col-md-6">
+     						<div class="form-group text-right">
+     							<input type="submit" value="send" class="btn-stay">
+     						</div>
+     					</div> -->
+     					
+     				</form>
+     				
+     			</div>
+     		</div>
+     	</div>
+     </section>
+
+	
+
+	<!--stay section end -->
+	<!-- Footer section start here -->
+	<footer class="footer-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<p class="copyright">Copyritht 2020, STRICT</p>
+					
+				</div>
+				<div class="col-md-6">
+					<ul class="social-icons">
+						<li>
+						     <a href="#">
+						     	<img src="images/Facebook.png">
+						     </a>
+					   </li>
+					   <li>
+						     <a href="#">
+						     	<img src="images/Twitter.png">
+						     </a>
+					   </li>
+					   <li>
+						     <a href="#">
+						     	<img src="images/Google +.png">
+						     </a>
+					   </li>
+					   <li>
+						     <a href="#">
+						     	<img src="images/Linked in.png">
+						     </a>
+					   </li>
+					</ul>
+					
+				</div>
+			</div>
+		</div>
+		
+	</footer>
+
+
+
+
+
+
+	<!-- Footer section start here -->
+		
+	
+
+	
+</body>
+</html>
