@@ -1,2 +1,3 @@
 # strict
-This is my 3rd psd to html project
+<br>
+This is a landing page. Mainly I have done this project to gain more strong knowledge about HTML5 and CSS3.
